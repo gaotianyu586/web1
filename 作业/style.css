@@ -1,0 +1,12 @@
+body
+{
+	font-family:'Arial';
+	font-size:12px;
+	line-height: 2em;
+}
+    a:link {color:#7272727; text-decoration:none; }
+	a:visited {text-decoration:underline;}
+	a:hover {color:#7272727; text-decoration:none;}
+	a:active{color:#7272727; text-decoration:none;}
+.as a{ color: #fdb306; }
+.fg a{ color: grey; }
