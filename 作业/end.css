@@ -1,0 +1,145 @@
+body{
+	margin: auto;
+}
+#top{
+	height: 250px;
+	width: 980px;
+}
+#top_left{
+	position: absolute;
+	left:5px;
+	top: 5px;
+	float: left;
+	width: 400px;
+}
+#top_right{
+	position: absolute;
+	left:500px;
+	top: 10px;
+	float: left;
+	width: 800px;
+	margin: 0px;
+	padding: 0px;
+}
+#a{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+
+}
+#b{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#c{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#d{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#e{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#f{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#g{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#h{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#i{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#search_1{
+	position: absolute;
+	left: 800px;
+	top: 60px;
+}
+#search_2{
+	position: absolute;
+	left: 980px;
+	top: 60px;
+}
+#left_1{
+
+	position: absolute;
+	left: 5px;
+	font-size: 30px;
+	text-align: center;
+	font-family: '隶书';
+}
+#left_2{
+	position: absolute;
+	left: 5px;
+	top: 750px;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+#right{
+	float:right;
+	font-size: 16px;
+	color: white;
+}
+#right_1{
+	height: 600px;
+	width: 300px;
+	position:absolute;
+	left: 1070px;
+	top: 220px;
+	float:left;
+
+}
+#right_2{
+	float: left;
+	height: 600px;
+	width: 300px;
+	position:absolute;
+	left:1400px;
+	top:220px;
+
+}
+#foot{
+	position:absolute;
+	left: 5px;
+	top: 870px;
+	width: 1000px;
+	height: 300px;
+	color: white;
+}
+#foot_1{
+	position:absolute;
+	left: 230px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
