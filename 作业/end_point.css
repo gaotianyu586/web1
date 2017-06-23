@@ -1,0 +1,165 @@
+body{
+	margin: auto;
+}
+#top{
+	height: 250px;
+	width: 980px;
+}
+#top_left{
+	position: absolute;
+	left:5px;
+	top: 5px;
+	float: left;
+	width: 400px;
+}
+#top_right{
+	position: absolute;
+	left:500px;
+	top: 10px;
+	float: left;
+	width: 800px;
+	margin: 0px;
+	padding: 0px;
+}
+#a{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+
+}
+#b{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#c{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#d{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#e{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#f{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#g{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#h{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#i{
+	width: 80px;
+	height: 80px;
+	float: left;
+	padding-top: 60px;
+}
+#search_1{
+	position: absolute;
+	left: 800px;
+	top: 60px;
+}
+#search_2{
+	position: absolute;
+	left: 980px;
+	top: 60px;
+}
+#left{
+	color:white;
+	text-align: center;
+}
+#left_1{
+
+	position: absolute;
+	left: 100px;
+	font-size: 30px;
+	font-family: '隶书';
+}
+#left_2{
+	position: absolute;
+	left: 80px;
+	top: 300px;
+	font-size: 16px;
+	color: white;
+	text-align: center;
+	height:500px;
+	width:550px;
+	float:left;
+}
+#right{
+	float:right;
+	font-size: 16px;
+	color: white;
+}
+#right_1{
+	height: 600px;
+	width: 450px;
+	position:absolute;
+	left: 1070px;
+	top: 220px;
+	float:left;
+
+}
+#right_2{
+	float: left;
+	height: 300px;
+	width: 450px;
+	position:absolute;
+	left:1020px;
+	top:240px;
+
+}
+#foot{
+	position:absolute;
+	left: 5px;
+	top: 870px;
+	width: 1000px;
+	height: 300px;
+	color: white;
+}
+#foot_0{
+	position:absolute;
+	left:400px;
+	top: 800px;
+	width: 1000px;
+	height:300px;
+}
+#foot_1{
+	position:absolute;
+	left: 230px;
+	top:50px;
+	text-align: center;
+}
+a{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+}
+#bread{
+	color:white;
+	position:absolute;
+	left: 420px;
+	top:150px;
+}
